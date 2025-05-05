@@ -2,7 +2,9 @@
 
 ###
 
-<p align="left">Me chamo Pedro Miguel, tenho 19 anos, sou estudante de Engenharia de Computação na UTFPR, com experiência em desenvolvimento front-end e conhecimento em Python. Possuo certificações na área, além de habilidades em manutenção de hardware e software, redes, suporte técnico e computação em nuvem. Estou sempre em busca de novos desafios e oportunidades para aplicar tecnologia de forma inovadora.</p>
+<p align="left">PT: Me chamo Pedro Miguel, tenho 19 anos, sou estudante de Engenharia de Computação na UTFPR, com experiência em desenvolvimento front-end e conhecimento em Python. Possuo certificações na área, além de habilidades em manutenção de hardware e software, redes, suporte técnico e computação em nuvem. Estou sempre em busca de novos desafios e oportunidades para aplicar tecnologia de forma inovadora.</p>
+
+<p align="left">EN: My name is Pedro Miguel, I’m 19 years old, I'm a Computer Engineering student at UTFPR, with experience in front-end development and proficiency in Python. I hold certifications in the field, along with skills in hardware and software maintenance, networking, technical support, and cloud computing. I’m always looking for new challenges and opportunities to apply technology in innovative ways.</p>
 
 ###
 
