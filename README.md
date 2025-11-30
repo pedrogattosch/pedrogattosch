@@ -2,10 +2,10 @@
 
 ###
 PT:
-Me chamo Pedro Miguel, tenho 20 anos e sou estudante de Engenharia de Computação na UTFPR, apaixonado por tecnologia e desenvolvimento de software. Estou sempre em busca de novos aprendizados e constantemente envolvido em projetos que me desafiam e contribuem para meu crescimento profissional e pessoal. 
+Estudante de Engenharia de Computação na UTFPR, sou apaixonado por tecnologia e desenvolvimento de hardware e software. Minhas competências essenciais incluem resolução de problemas, aprendizado contínuo e gestão de tempo. Possuo habilidades técnicas com destaque para proficiência em Python. Atualmente, trabalho como freelancer Landingfy, aplicando habilidades de design e desenvolvimento de sites. Minha experiência anterior no Exército Brasileiro me proporcionou habilidades técnicas em suporte de TI, incluindo manutenções de equipamentos, além de competências comportamentais valiosas como disciplina, trabalho em equipe e resiliência.
 
 EN:
-My name is Pedro Miguel, I’m 20 years old and a Computer Engineering student at UTFPR. I’m passionate about technology and software development, always seeking new knowledge and constantly involved in projects that challenge me and contribute to my professional and personal growth.
+A Computer Engineering student at UTFPR, I am passionate about technology and hardware and software development. My essential competencies include problem-solving, continuous learning, and time management. I possess technical skills, notably Python proficiency. I currently work as a freelancer at Landingfy, applying skills in design and website development. My previous experience in the Brazilian Army provided me with technical skills in IT support, including equipment maintenance, as well as valuable behavioral competencies such as discipline, teamwork, and resilience.
 
 ###
 <div align="left">
