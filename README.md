@@ -1,13 +1,14 @@
-<h3 align="left">Olá, Mundo!</h3>
+### Olá, mundo! 👋
+Sou o Pedro Miguel, estudante de Engenharia de Computação na UTFPR e um apaixonado por tecnologia.
 
-###
-PT:
-Estudante de Engenharia de Computação na UTFPR, sou apaixonado por tecnologia e desenvolvimento de hardware e software. Minhas competências essenciais incluem resolução de problemas, aprendizado contínuo e gestão de tempo. Possuo habilidades técnicas com destaque para proficiência em Python. Atualmente, trabalho como freelancer na Landingfy, aplicando habilidades de design e desenvolvimento de sites. Minha experiência anterior no Exército Brasileiro me proporcionou habilidades técnicas em suporte de TI, incluindo manutenções de equipamentos, além de competências comportamentais valiosas como disciplina, trabalho em equipe e resiliência.
+Atualmente, divido minha rotina entre o estágio na Inside Sistemas e meus projetos como freelance na Landingfy. No dia a dia, uso minha organização, gestão de tempo e foco em resolução de problemas para desenvolver projetos, transitando entre o desenvolvimento web e mobile.
 
-EN:
-A Computer Engineering student at UTFPR, I am passionate about technology and hardware and software development. My essential competencies include problem-solving, continuous learning, and time management. I possess technical skills, notably Python proficiency. I currently work as a freelancer at Landingfy, applying skills in design and website development. My previous experience in the Brazilian Army provided me with technical skills in IT support, including equipment maintenance, as well as valuable behavioral competencies such as discipline, teamwork, and resilience.
+<p>
+  <a href="pedrogattosch.vercel.app">Portfólio</a> •
+  <a href="https://instagram.com/pedrogattosch">Instagram</a> •
+  <a href="https://linkedin.com/in/pedrogattosch">LinkedIn</a>
+</p>
 
-###
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="52" alt="c logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" width="52" alt="cplusplus logo"  />
