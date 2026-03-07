@@ -1,7 +1,7 @@
 ### Olá, mundo! 👋
-Sou o Pedro Miguel, estudante de Engenharia de Computação na UTFPR e um apaixonado por tecnologia.
+Sou o Pedro Miguel, estudante de Engenharia de Computação na UTFPR.
 
-Atualmente, divido minha rotina entre o estágio na Inside Sistemas e meus projetos como freelance na Landingfy. No dia a dia, uso minha organização, gestão de tempo e foco em resolução de problemas para desenvolver projetos, transitando entre o desenvolvimento web e mobile.
+Atualmente na Inside Sistemas, atuo com foco na análise e documentação de funcionalidades do software. Em paralelo, dedico meus estudos ao ecossistema .NET, aplicando a base teórica da engenharia na construção de soluções robustas.
 
 <p>
   <a href="pedrogattosch.vercel.app">Portfólio</a> •
