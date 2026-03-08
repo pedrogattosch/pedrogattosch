@@ -1,7 +1,7 @@
 ### Olá, mundo! 👋
 Sou o Pedro Miguel, estudante de Engenharia de Computação na UTFPR.
 
-Atualmente na Inside Sistemas, atuo com foco na análise e documentação de funcionalidades do software. Em paralelo, dedico meus estudos ao ecossistema .NET, aplicando a base teórica da engenharia na construção de soluções robustas.
+Atualmente na Inside Sistemas, atuo com foco na análise e documentação de funcionalidades do software. Em paralelo, dedico meus estudos ao ecossistema .NET, aplicando a base teórica da engenharia na construção de soluções robustas. Possuo também forte base em Python, análise de dados e visão computacional.
 
 <p>
   <a href="pedrogattosch.vercel.app">Portfólio</a> •
