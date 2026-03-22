@@ -10,17 +10,17 @@ Atualmente na Inside Sistemas, atuo com foco na análise e documentação de fun
 </p>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="40" width="52" alt="c logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="40" width="52" alt="cplusplus logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" width="52" alt="python logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" height="40" width="52" alt="sass logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="40" width="52" alt="tailwindcss logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40" width="52" alt="react logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" height="40" width="52" alt="flutter logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="40" width="52" alt="csharp logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" height="40" width="52" alt=".net logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" width="52" alt="sql server logo" />
+  <img src="https://skillicons.dev/icons?i=c" height="48" alt="c logo" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="48" alt="cpp logo" />
+  <img src="https://skillicons.dev/icons?i=py" height="48" alt="python logo" />
+  <img src="https://skillicons.dev/icons?i=js" height="48" alt="javascript logo" />
+  <img src="https://skillicons.dev/icons?i=html" height="48" alt="html logo" />
+  <img src="https://skillicons.dev/icons?i=css" height="48" alt="css logo" />
+  <img src="https://skillicons.dev/icons?i=sass" height="48" alt="sass logo" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="48" alt="tailwindcss logo" />
+  <img src="https://skillicons.dev/icons?i=react" height="48" alt="react logo" />
+  <img src="https://skillicons.dev/icons?i=flutter" height="48" alt="flutter logo" />
+  <img src="https://skillicons.dev/icons?i=cs" height="48" alt="csharp logo" />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="48" alt=".net logo" />
+  <img src="https://cdn.simpleicons.org/microsoftsqlserver" height="48" alt="sql server logo" />
 </div>
