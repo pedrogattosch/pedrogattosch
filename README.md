@@ -22,5 +22,4 @@ Atualmente na Inside Sistemas, atuo com foco na análise e documentação de fun
   <img src="https://skillicons.dev/icons?i=flutter" height="48" alt="flutter logo" />
   <img src="https://skillicons.dev/icons?i=cs" height="48" alt="csharp logo" />
   <img src="https://skillicons.dev/icons?i=dotnet" height="48" alt=".net logo" />
-  <img src="https://cdn.simpleicons.org/microsoftsqlserver" height="48" alt="sql server logo" />
 </div>
