@@ -1,7 +1,7 @@
 ### Olá, mundo! 👋
-Sou o Pedro Miguel, estudante de Engenharia de Computação na UTFPR.
+Sou Pedro Miguel, estudante de Engenharia de Computação na UTFPR.
 
-Atuo com desenvolvimento e documentação de software, com foco principal no ecossistema .NET. Tenho construído projetos com C#, ASP.NET Core, SQL Server e React, e também venho expandindo minha atuação para o desenvolvimento mobile com Flutter.
+Tenho desenvolvido projetos com back-end em C# e ASP.NET Core, front-end com React e banco de dados SQL Server. Também utilizo Python para automações e análise de dados, além de estar expandindo meus estudos em desenvolvimento mobile com Flutter.
 
 <p>
   <a href="https://pedrogattosch.vercel.app/">Portfólio</a> •
