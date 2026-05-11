@@ -16,5 +16,4 @@ Tenho desenvolvido projetos com back-end em C# e ASP.NET Core, front-end com Rea
   <img src="https://skillicons.dev/icons?i=react" height="48" alt="react logo" />
   <img src="https://skillicons.dev/icons?i=py" height="48" alt="python logo" />
   <img src="https://skillicons.dev/icons?i=flutter" height="48" alt="flutter logo" />
-  <img src="https://skillicons.dev/icons?i=git" height="48" alt="git logo" />
 </div>
