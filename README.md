@@ -1,4 +1,5 @@
 ### Olá, mundo! 👋
+
 Sou Pedro Miguel, estudante de Engenharia de Computação na UTFPR.
 
 Tenho desenvolvido projetos com back-end em C# e ASP.NET Core, front-end com React e banco de dados SQL Server. Também utilizo Python para automações e análise de dados, além de estar expandindo meus estudos em desenvolvimento mobile com Flutter.
@@ -10,10 +11,30 @@ Tenho desenvolvido projetos com back-end em C# e ASP.NET Core, front-end com Rea
   <a href="https://linkedin.com/in/pedrogattosch">LinkedIn</a>
 </p>
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=cs" height="48" alt="csharp logo" />
-  <img src="https://skillicons.dev/icons?i=dotnet" height="48" alt=".net logo" />
-  <img src="https://skillicons.dev/icons?i=react" height="48" alt="react logo" />
-  <img src="https://skillicons.dev/icons?i=py" height="48" alt="python logo" />
-  <img src="https://skillicons.dev/icons?i=flutter" height="48" alt="flutter logo" />
-</div>
+## Projetos
+
+### TilapIA
+
+🏗️ Projeto em desenvolvimento...
+
+<p>
+  <img width="128" height="128" align="left" src="./assets/projects/tilapia-logo.svg" />
+</p>
+
+<a href="https://github.com/pedrogattosch/TilapIA">TilapIA</a> é uma solução voltada à biometria aquícola para piscicultura, com o objetivo de apoiar produtores no monitoramento estimado de tilápias. O projeto busca reunir informações como peso médio, comprimento médio, biomassa, qualidade da água, ração recomendada, manejo alimentar e previsão de abate em uma interface visual e acessível para auxiliar na tomada de decisão. A proposta é reduzir a dependência da biometria manual frequente, que exige a captura dos peixes, e abrir caminho para uma solução futura com câmera subaquática, sensores e visão computacional aplicada ao manejo aquícola.
+
+<br clear="all" />
+
+## Habilidades
+
+**Back-end:** C#, .NET, ASP.NET Core, Entity Framework Core, JWT, API REST, xUnit
+
+**Front-end:** React, TypeScript, JavaScript, HTML, CSS, Tailwind CSS, Vite
+
+**Banco de dados:** SQL Server, SQL, SQLite
+
+**Dados e automação:** Python, Pandas, NumPy, Matplotlib
+
+**Mobile:** Flutter, Dart
+
+**Ferramentas:** Git, GitHub, Docker, Postman, Swagger, Figma
