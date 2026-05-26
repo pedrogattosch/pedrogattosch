@@ -58,8 +58,3 @@ Tenho desenvolvido projetos com back-end em C# e ASP.NET Core, front-end com Rea
 **Mobile:** Flutter, Dart
 
 **Ferramentas:** Git, GitHub, Docker, Postman, Swagger, Figma
-
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=pedrogattosch&show_icons=true&theme=github_dark" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrogattosch&layout=compact&theme=github_dark" />
-</p>
