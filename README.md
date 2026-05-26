@@ -2,7 +2,7 @@
 
 Sou Pedro Miguel, estudante de Engenharia de Computação na UTFPR.
 
-Tenho desenvolvido projetos com back-end em C# e ASP.NET Core, front-end com React e banco de dados SQL Server. Também utilizo Python para automações e análise de dados, além de estar expandindo meus estudos em desenvolvimento mobile com Flutter.
+Tenho desenvolvido projetos com back-end em C# e ASP.NET Core, front-end com React e banco de dados com SQL Server. Também utilizo Python para automações e análise de dados, além de estar expandindo meus estudos em desenvolvimento mobile com Flutter.
 
 <p>
   <a href="https://pedrogattosch.vercel.app/">Portfólio</a> •
@@ -17,11 +17,33 @@ Tenho desenvolvido projetos com back-end em C# e ASP.NET Core, front-end com Rea
 
 🏗️ Projeto em desenvolvimento...
 
-<p>
-  <img width="128" height="128" align="left" src="./assets/projects/tilapia-logo.svg" />
-</p>
+<table>
+  <tr>
+    <td width="140" align="center">
+      <img width="120" src="./assets/projects/tilapia-logo.svg" />
+    </td>
+    <td>
+      <a href="https://github.com/pedrogattosch/TilapIA">TilapIA</a> é uma solução voltada à biometria aquícola para piscicultura, com o objetivo de apoiar produtores no monitoramento estimado de tilápias. O projeto busca reunir informações como peso médio, comprimento médio, biomassa, qualidade da água, ração recomendada, manejo alimentar e previsão de abate em uma interface visual e acessível para auxiliar na tomada de decisão. A proposta é reduzir a dependência da biometria manual frequente, que exige a captura dos peixes, e abrir caminho para uma solução futura com câmera subaquática, sensores e visão computacional aplicada ao manejo aquícola.
+    </td>
+  </tr>
+</table>
 
-<a href="https://github.com/pedrogattosch/TilapIA">TilapIA</a> é uma solução voltada à biometria aquícola para piscicultura, com o objetivo de apoiar produtores no monitoramento estimado de tilápias. O projeto busca reunir informações como peso médio, comprimento médio, biomassa, qualidade da água, ração recomendada, manejo alimentar e previsão de abate em uma interface visual e acessível para auxiliar na tomada de decisão. A proposta é reduzir a dependência da biometria manual frequente, que exige a captura dos peixes, e abrir caminho para uma solução futura com câmera subaquática, sensores e visão computacional aplicada ao manejo aquícola.
+<br>
+
+### Aplicativo Paróquia Menino Deus
+
+🏗️ Projeto em desenvolvimento...
+
+<table>
+  <tr>
+    <td width="140" align="center">
+      <img width="120" src="./assets/projects/paroquia-logo.png" />
+    </td>
+    <td>
+      <a href="https://github.com/pedrogattosch/paroquia-app">Aplicativo Paróquia Menino Deus</a> é voltado para aproximar a comunidade paroquial, centralizando informações importantes como avisos, horários de missas, eventos, pastorais e conteúdos informativos em uma interface simples e acessível. O objetivo do projeto é facilitar a comunicação entre a paróquia e os fiéis, tornando o acesso às informações mais rápido, organizado e prático.
+    </td>
+  </tr>
+</table>
 
 <br clear="all" />
 
