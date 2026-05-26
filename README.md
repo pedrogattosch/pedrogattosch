@@ -15,7 +15,7 @@ Tenho desenvolvido projetos com back-end em C# e ASP.NET Core, front-end com Rea
 
 ### TilapIA
 
-🏗️ Projeto em desenvolvimento...
+🏆 Projeto campeão do Start Farm 2026
 
 <table>
   <tr>
@@ -23,7 +23,7 @@ Tenho desenvolvido projetos com back-end em C# e ASP.NET Core, front-end com Rea
       <img width="130" src="./assets/projects/tilapia-logo.svg" />
     </td>
     <td valign="middle">
-      <a href="https://github.com/pedrogattosch/TilapIA">TilapIA</a> é uma solução voltada à biometria aquícola para piscicultura, com o objetivo de apoiar produtores no monitoramento estimado de tilápias. O projeto busca reunir informações como peso médio, comprimento médio, biomassa, qualidade da água, ração recomendada, manejo alimentar e previsão de abate em uma interface visual e acessível para auxiliar na tomada de decisão. A proposta é reduzir a dependência da biometria manual frequente, que exige a captura dos peixes, e abrir caminho para uma solução futura com câmera subaquática, sensores e visão computacional aplicada ao manejo aquícola.
+      <a href="https://github.com/pedrogattosch/TilapIA">TilapIA</a> é uma solução voltada à biometria aquícola para piscicultura, com o objetivo de apoiar produtores no monitoramento estimado de tilápias. O projeto busca reunir informações como peso médio, qualidade da água, ração recomendada e previsão de abate em uma interface acessível para auxiliar na tomada de decisão. A proposta é reduzir a dependência da biometria manual, que exige a captura dos peixes, e abrir caminho para uma solução futura com câmera subaquática, sensores e visão computacional aplicada ao manejo aquícola.
     </td>
   </tr>
 </table>
@@ -58,3 +58,8 @@ Tenho desenvolvido projetos com back-end em C# e ASP.NET Core, front-end com Rea
 **Mobile:** Flutter, Dart
 
 **Ferramentas:** Git, GitHub, Docker, Postman, Swagger, Figma
+
+<p>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=pedrogattosch&show_icons=true&theme=github_dark" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrogattosch&layout=compact&theme=github_dark" />
+</p>
