@@ -23,7 +23,7 @@ Tenho desenvolvido projetos com back-end em C# e ASP.NET Core, front-end com Rea
       <img width="130" src="./assets/projects/tilapia-logo.svg" />
     </td>
     <td valign="middle">
-      <a href="https://github.com/pedrogattosch/TilapIA">TilapIA</a> é uma solução voltada à biometria aquícola para piscicultura, com o objetivo de apoiar produtores no monitoramento estimado de tilápias. O projeto busca reunir informações como peso médio, qualidade da água, ração recomendada e previsão de abate em uma interface acessível para auxiliar na tomada de decisão. A proposta é reduzir a dependência da biometria manual, que exige a captura dos peixes, e abrir caminho para uma solução futura com câmera subaquática, sensores e visão computacional aplicada ao manejo aquícola.
+      <a href="https://start-farm.vercel.app/">TilapIA</a> é uma solução voltada à biometria aquícola para piscicultura, com o objetivo de apoiar produtores no monitoramento estimado de tilápias. O projeto busca reunir informações como peso médio, qualidade da água, ração recomendada e previsão de abate em uma interface acessível para auxiliar na tomada de decisão. A proposta é reduzir a dependência da biometria manual, que exige a captura dos peixes, e abrir caminho para uma solução futura com câmera subaquática, sensores e visão computacional aplicada ao manejo aquícola.
     </td>
   </tr>
 </table>
