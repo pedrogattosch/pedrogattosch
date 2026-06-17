@@ -49,7 +49,7 @@ Também possuo experiência prática com desenvolvimento web, back-end em C# e A
 
 ## Habilidades
 
-**IA e automação:** Python, FastAPI, LLM, RAG, agentes de IA, fluxos multiagentes, automação de processos, integração com APIs
+**IA e automação:** Python, FastAPI, LLM, RAG, agentes de IA, fluxos multiagentes, automação de processos
 
 **Front-end:** React, TypeScript, JavaScript, HTML, CSS, Tailwind CSS, Vite
 
