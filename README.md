@@ -2,7 +2,9 @@
 
 Sou Pedro Miguel, estudante de Engenharia de Computação na UTFPR.
 
-Tenho desenvolvido projetos com back-end em C# e ASP.NET Core, front-end com React e banco de dados com SQL Server. Também utilizo Python para automações e análise de dados, além de estar expandindo meus estudos em desenvolvimento mobile com Flutter.
+Atualmente, meu foco está em Python, inteligência artificial, automação de processos e desenvolvimento de agentes de IA. Tenho trabalhado com soluções que utilizam LLMs, RAG, FastAPI e fluxos multiagentes, buscando automatizar tarefas repetitivas, integrar sistemas e transformar conhecimento técnico em aplicações úteis.
+
+Também possuo experiência prática com desenvolvimento web, back-end em C# e ASP.NET Core, front-end com React, bancos de dados relacionais e projetos envolvendo análise de dados, dashboards e visão computacional.
 
 <p>
   <a href="https://pedrogattosch.vercel.app/">Portfólio</a> •
@@ -47,14 +49,16 @@ Tenho desenvolvido projetos com back-end em C# e ASP.NET Core, front-end com Rea
 
 ## Habilidades
 
-**Back-end:** C#, .NET, ASP.NET Core, Entity Framework Core, JWT, API REST, xUnit
+**IA e automação:** Python, FastAPI, LLM, RAG, agentes de IA, fluxos multiagentes, automação de processos, integração com APIs
 
 **Front-end:** React, TypeScript, JavaScript, HTML, CSS, Tailwind CSS, Vite
 
-**Banco de dados:** SQL Server, SQL, SQLite
+**Back-end:** C#, .NET, ASP.NET Core, Entity Framework Core, JWT, API REST, xUnit
 
-**Dados e automação:** Python, Pandas, NumPy, Matplotlib
+**Dados e visão computacional:** Pandas, NumPy, Matplotlib, OpenCV, Dash
+
+**Banco de dados:** SQL Server, SQLite
 
 **Mobile:** Flutter, Dart
 
-**Ferramentas:** Git, GitHub, Docker, Postman, Swagger, Figma
+**Ferramentas:** Git, GitHub, GitLab, Docker, Postman, Swagger, Figma, Codex, Claude Code
