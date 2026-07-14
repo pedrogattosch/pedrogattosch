@@ -8,7 +8,6 @@ Também possuo experiência prática com desenvolvimento web, back-end em C# e A
 
 <p>
   <a href="https://pedrogattosch.vercel.app/">Portfólio</a> •
-  <a href="https://pedrogattosch.hashnode.dev/">Blog</a> •
   <a href="https://instagram.com/pedrogattosch">Instagram</a> •
   <a href="https://linkedin.com/in/pedrogattosch">LinkedIn</a>
 </p>
