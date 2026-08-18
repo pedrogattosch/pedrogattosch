@@ -34,7 +34,7 @@ Atuo no desenvolvimento de soluções com Python, LLMs, agentes de IA, RAG, mach
 
 ## Habilidades
 
-**IA e automação:** Python, LLMs, RAG, agentes de IA, sistemas multiagentes, machine learning, automação de processos
+**IA e automação:** Python, LLMs, RAG, agentes de IA, sistemas multiagentes, machine learning
 
 **Dados e visão computacional:** Pandas, NumPy, Matplotlib, OpenCV, Dash
 
