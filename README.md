@@ -1,16 +1,6 @@
 ### Olá, mundo! 👋
 
-Sou Pedro Miguel, estudante de Engenharia de Computação na UTFPR.
-
-Atualmente, meu foco está em Python, inteligência artificial, automação de processos e desenvolvimento de agentes de IA. Tenho trabalhado com soluções que utilizam LLMs, RAG, FastAPI e fluxos multiagentes, buscando automatizar tarefas repetitivas, integrar sistemas e transformar conhecimento técnico em aplicações úteis.
-
-Também possuo experiência prática com desenvolvimento web, back-end em C# e ASP.NET Core, front-end com React, bancos de dados relacionais e projetos envolvendo análise de dados, dashboards e visão computacional.
-
-<p>
-  <a href="https://pedrogattosch.vercel.app/">Portfólio</a> •
-  <a href="https://instagram.com/pedrogattosch">Instagram</a> •
-  <a href="https://linkedin.com/in/pedrogattosch">LinkedIn</a>
-</p>
+Atuo no desenvolvimento de soluções com Python, LLMs, agentes de IA, RAG, machine learning e análise de dados, criando automações, dashboards e aplicações para otimizar processos e apoiar a tomada de decisão.
 
 ## Projetos
 
