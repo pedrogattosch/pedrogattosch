@@ -6,8 +6,6 @@ Atuo no desenvolvimento de soluções com Python, LLMs, agentes de IA, RAG, mach
 
 ### TilapIA
 
-🏆 Projeto campeão do Start Farm 2026
-
 <table>
   <tr>
     <td width="160" align="center" valign="middle">
@@ -20,8 +18,6 @@ Atuo no desenvolvimento de soluções com Python, LLMs, agentes de IA, RAG, mach
 </table>
 
 ### Aplicativo Paróquia Menino Deus
-
-🏗️ Projeto em desenvolvimento...
 
 <table>
   <tr>
@@ -38,16 +34,14 @@ Atuo no desenvolvimento de soluções com Python, LLMs, agentes de IA, RAG, mach
 
 ## Habilidades
 
-**IA e automação:** Python, FastAPI, LLM, RAG, agentes de IA, fluxos multiagentes, automação de processos
-
-**Front-end:** React, TypeScript, JavaScript, HTML, CSS, Tailwind CSS, Vite
-
-**Back-end:** C#, .NET, ASP.NET Core, Entity Framework Core, JWT, API REST, xUnit
+**IA e automação:** Python, LLMs, RAG, agentes de IA, sistemas multiagentes, machine learning, automação de processos
 
 **Dados e visão computacional:** Pandas, NumPy, Matplotlib, OpenCV, Dash
 
+**Back-end:** FastAPI, APIs REST
+
+**Front-end:** React, TypeScript, JavaScript, HTML, CSS, Tailwind CSS
+
 **Banco de dados:** SQL Server, SQLite
 
-**Mobile:** Flutter, Dart
-
-**Ferramentas:** Git, GitHub, GitLab, Docker, Postman, Swagger, Figma, Codex, Claude Code
+**Ferramentas:** Git, GitHub, GitLab, Docker, Postman, Swagger
