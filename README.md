@@ -1,6 +1,6 @@
 ### Olá, mundo! 👋
 
-Atuo no desenvolvimento de soluções com Python, LLMs, RAG e SQL, criando automações, agentes de IA, dashboards e aplicações para otimizar processos e apoiar a tomada de decisão.
+Atuo no desenvolvimento de soluções com Python, LLMs, RAG e SQL, criando automações, agentes autônomos, dashboards e aplicações para otimizar processos e apoiar a tomada de decisão.
 
 ## Habilidades
 
